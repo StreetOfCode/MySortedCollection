@@ -40,6 +40,20 @@ namespace MySortedCollection
             }
         }
 
+        public void Add(int number)
+        {
+            for (int i = 0; i < items.Count; i++)
+            {
+                if (items[i] > number)
+                {
+                    items.Insert(i, number);
+                    return;
+                }
+            }
+
+            items.Add(number);
+        }
+
         public override string ToString()
         {
             return string.Join(",", items);

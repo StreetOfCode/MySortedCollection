@@ -4,3 +4,4 @@ C:\Users\GabrielK\projects\StreetOfCode\Videa\Unit testing in C#\MySortedCollect
 C:\Users\GabrielK\projects\StreetOfCode\Videa\Unit testing in C#\MySortedCollection\MySortedCollection\obj\Debug\MySortedCollection.csproj.CoreCompileInputs.cache
 C:\Users\GabrielK\projects\StreetOfCode\Videa\Unit testing in C#\MySortedCollection\MySortedCollection\obj\Debug\MySortedCollection.exe
 C:\Users\GabrielK\projects\StreetOfCode\Videa\Unit testing in C#\MySortedCollection\MySortedCollection\obj\Debug\MySortedCollection.pdb
+C:\Users\GabrielK\projects\StreetOfCode\Videa\Unit testing in C#\MySortedCollection\MySortedCollection\obj\Debug\MySortedCollection.csprojAssemblyReference.cache

@@ -1,6 +1,0 @@
-C:\Users\GabrielK\projects\StreetOfCode\Videa\Unit testing in C#\MySortedCollection\.vs\MySortedCollection\lut\0\b\MySortedCollection\bin\Debug\MySortedCollection.exe.config
-C:\Users\GabrielK\projects\StreetOfCode\Videa\Unit testing in C#\MySortedCollection\.vs\MySortedCollection\lut\0\b\MySortedCollection\bin\Debug\MySortedCollection.exe
-C:\Users\GabrielK\projects\StreetOfCode\Videa\Unit testing in C#\MySortedCollection\.vs\MySortedCollection\lut\0\i\MySortedCollection\Debug\MySortedCollection.csprojAssemblyReference.cache
-C:\Users\GabrielK\projects\StreetOfCode\Videa\Unit testing in C#\MySortedCollection\.vs\MySortedCollection\lut\0\i\MySortedCollection\Debug\MySortedCollection.csproj.CoreCompileInputs.cache
-C:\Users\GabrielK\projects\StreetOfCode\Videa\Unit testing in C#\MySortedCollection\.vs\MySortedCollection\lut\0\i\MySortedCollection\Debug\MySortedCollection.csproj.CopyComplete
-C:\Users\GabrielK\projects\StreetOfCode\Videa\Unit testing in C#\MySortedCollection\.vs\MySortedCollection\lut\0\i\MySortedCollection\Debug\MySortedCollection.exe
