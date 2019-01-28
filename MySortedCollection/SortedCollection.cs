@@ -14,7 +14,7 @@ namespace MySortedCollection
 
         public SortedCollection(List<int> items)
         {
-            this.items = items;
+            this.items = items.ToList(); // "clone"
             BubbleSort();
         }
 

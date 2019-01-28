@@ -1,0 +1,5 @@
+C:\Users\GabrielK\projects\StreetOfCode\Videa\Unit testing in C#\MySortedCollection\.vs\MySortedCollection\lut\0\b\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\GabrielK\projects\StreetOfCode\Videa\Unit testing in C#\MySortedCollection\.vs\MySortedCollection\lut\0\b\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\GabrielK\projects\StreetOfCode\Videa\Unit testing in C#\MySortedCollection\.vs\MySortedCollection\lut\0\i\ConsoleApp1\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\GabrielK\projects\StreetOfCode\Videa\Unit testing in C#\MySortedCollection\.vs\MySortedCollection\lut\0\i\ConsoleApp1\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\GabrielK\projects\StreetOfCode\Videa\Unit testing in C#\MySortedCollection\.vs\MySortedCollection\lut\0\i\ConsoleApp1\Debug\ConsoleApp1.exe
